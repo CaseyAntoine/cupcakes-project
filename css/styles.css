@@ -13,3 +13,9 @@ img.best{
 h2.flashy{
   font-family: fantasy;
 }
+
+p.flashy {
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+}
