@@ -1,0 +1,15 @@
+img.best{
+  margin: 10px auto;
+  width: 30%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+  display: block;
+}
+.flashy{
+  color: darkred;
+}
+
+h2.flashy{
+  font-family: fantasy;
+}
